@@ -1,5 +1,6 @@
 //# Cubed-number-in-java
 //practicing
+
 #include <stdio.h>
 #include <stdlib.h>
 
