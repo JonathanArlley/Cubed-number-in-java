@@ -9,7 +9,7 @@ int main()
     int n = 0;
     int cubo = 0;
 
-    printf("Digite o numero: ");
+    printf("Enter the number: ");
     scanf("%d", &n);
 
     cubo = n * n * n;
